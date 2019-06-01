@@ -41,8 +41,5 @@
     <ClInclude Include="..\..\Source\BattleTank\BattleTankGameModeBase.h">
       <Filter>Source\BattleTank</Filter>
     </ClInclude>
-    <None Include="Prostotest.css">
-      <Filter>Source\BattleTank</Filter>
-    </None>
   </ItemGroup>
 </Project>
